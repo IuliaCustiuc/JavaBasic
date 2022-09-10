@@ -1,0 +1,18 @@
+/**
+ * Java Basic Homework 01
+ *
+ * @author Iulia Custiuc
+ * @version 10.09.2022
+ *
+ */
+
+class Homework01 {
+    public static void main (String[] args) {
+	    int Width = 5;
+		int Length = 7;
+		int Perimeter = 2 * (Width + Length);
+		int Area = Width * Length;
+		System.out.printf("Perimeter = %d, Area = %d", Perimeter, Area);
+	}
+
+}
