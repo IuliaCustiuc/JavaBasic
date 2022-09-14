@@ -3,7 +3,7 @@
   *
   *@author Iulia Custiuc
   *@todo 7.9.2022
-  *@date 13.9.2022
+  *@date 14.9.2022
   */
 class Homework02 {
     public static void main(String[] args) {
